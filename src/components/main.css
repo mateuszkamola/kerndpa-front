@@ -1,0 +1,14 @@
+.entry-container {
+  padding: 10px;
+  margin: 20px;
+  border: 1px solid black;
+}
+
+.entry-container h3 {
+  text-align:center;
+  text-decoration:underline;
+  margin-bottom:10px;
+}
+.entry-container p{
+  margin-bottom: 5px;
+}
